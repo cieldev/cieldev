@@ -5,7 +5,7 @@ I'm working **Leoned.Inc**
 ## Who am I?
 Name: LyuN  
 High School Student and Leoned.Inc CEO  
-Gender: Male  
+Gender: ???  
 Age: 15 years old  
 Location: Hokkaido Japan  
 Hobbies: Music, games, reading, programming, chatting  
