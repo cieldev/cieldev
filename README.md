@@ -1,9 +1,9 @@
 # Hello world!
-Hello guys. I'm ***LyuN***
+Hello guys. I'm ***Yuci***
 I'm working **Leoned.Inc**
 
 ## Who am I?
-Name: LyuN  
+Name: Yuci  
 High School Student and Leoned.Inc CEO  
 Gender: ???  
 Age: 15 years old  
