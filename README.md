@@ -1,11 +1,11 @@
 # Hello world!
-Hello guys. I'm ***Yuci***
+Hello guys. I'm ***Charis(Charis-Ciel)***
 I'm working **Leoned.Inc**
 
 ## Who am I?
-Name: Yuci  
-High School Student and Leoned.Inc CEO  
-Gender: ???  
+Name: Charis (Charis-Ciel) a.k.a. Yuduki Sorane  
+High School Student  
+Gender: X Gender Aromantic/ Asexualitty  
 Age: 15 years old  
 Location: Hokkaido Japan  
 Hobbies: Music, games, reading, programming, chatting  
