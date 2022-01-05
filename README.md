@@ -1,9 +1,9 @@
 # Hello world!
-Hello guys. I'm ***Charis(Charis-Ciel)***
+Hello guys. I'm ***Ciel(Cassiopeia)***
 I'm working **Leoned.Inc**
 
 ## Who am I?
-Name: Charis (Charis-Ciel) a.k.a. Yuduki Sorane  
+Name: Ciel (Cassiopeia) a.k.a. Yuduki Sorane  
 High School Student  
 Gender: X Gender Aromantic/ Asexualitty  
 Age: 15 years old  
