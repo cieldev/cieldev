@@ -1,12 +1,12 @@
 # Hello world!
-Hello guys. I'm ***Ciel(Cassiopeia)***
+Hello guys. I'm ***Ciel***
 I'm working **Leoned.Inc**
 
 ## Who am I?
-Name: Ciel (Cassiopeia) a.k.a. Yuduki Sorane  
+Name: Ciel a.k.a. Yuduki Sorane  
 High School Student  
-Gender: X Gender Aromantic/ Asexualitty  
-Age: 15 years old  
+Gender: Women / Aromantic  
+Age: 16 years old  
 Location: Hokkaido Japan  
 Hobbies: Music, games, reading, programming, chatting  
 Likes: Anime, sweets, friends  
