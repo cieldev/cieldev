@@ -5,7 +5,7 @@ I'm working **Leoned.Inc**
 ## Who am I?
 Name: Ciel a.k.a. Yuduki Sorane  
 High School Student  
-Gender: Women / Aromantic  
+Gender: Women / Aromantic / Asexuality   
 Age: 16 years old  
 Location: Hokkaido Japan  
 Hobbies: Music, games, reading, programming, chatting  
