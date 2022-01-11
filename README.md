@@ -11,6 +11,7 @@ Location: Hokkaido Japan
 Hobbies: Music, games, reading, programming, chatting  
 Likes: Anime, sweets, friends  
 Dislikes: lightning, dark places  
+ThemeColor: 紺藤(Konfuji / #6592C6)  
 
 ## My Story
 
