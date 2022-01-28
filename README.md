@@ -27,5 +27,5 @@ In programming: **TypeScript & JavaScript**, **Kotlin & Java**
 > Note: I mainly use TypeScript and Kotlin. I also use JavaScript and Java, but I'm not as good at them as I used to be.
 
 ## LICENSE
-Unauthorized reproduction, modification, or commercial use of my content is prohibited.  
-However, you are welcome to get inspiration from my code or the idea of learning by doing code reading.
+Basically, use Apache Licence 2.0.  
+You are welcome to get inspiration from my code or the idea of learning by doing code reading.
