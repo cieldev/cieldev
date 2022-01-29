@@ -10,7 +10,7 @@ Location: Hokkaido Japan
 Hobbies: Music, games, reading, programming, chatting  
 Likes: Anime, sweets, friends  
 Dislikes: lightning, dark places  
-ThemeColor: 紺藤(Konfuji / #6592C6)  
+ThemeColor: 深藍(Kokiai / #004150)  
 
 ## My Story
 
@@ -24,6 +24,9 @@ In conversation: **Japanese**, **English**
 
 In programming: **TypeScript & JavaScript**, **Kotlin & Java**
 > Note: I mainly use TypeScript and Kotlin. I also use JavaScript and Java, but I'm not as good at them as I used to be.
+
+In Wevsite develop: **HTNL & CSS & JS**
+> Note: I've learning these languages now. I CANNOT USE WELL
 
 ## LICENSE
 Basically, use Apache Licence 2.0.  
