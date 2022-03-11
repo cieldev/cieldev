@@ -33,5 +33,5 @@ Basically, use Apache Licence 2.0.
 You are welcome to get inspiration from my code or the idea of learning by doing code reading.
 
 ## Commit report
-![Stats](https://github-readme-stats.vercel.app/api?username=cieldev1234&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CielDev1234&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=cieldev&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CielDev&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
