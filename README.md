@@ -2,9 +2,9 @@
 Hello guys. I'm ***Ciel***
 
 ## Who am I?
-Name: Ciel a.k.a. Yuduki Sorane  
+Name: Ciel a.k.a. Shinonome Sorane  
 High School Student  
-Gender: Man / Aromantic / Asexuality   
+Gender: Man / Romantic / Asexuality   
 Age: 16 years old  
 Location: Hokkaido Japan  
 Hobbies: Music, games, reading, programming, chatting  
